@@ -1,7 +1,3 @@
-export const metadata = {
-    title: "About Alik"
-}
-
 export default function About(){
-    return <h1>Root About Page</h1>
+    return <h1>About Us</h1>
 }
