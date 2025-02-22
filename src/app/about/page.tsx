@@ -1,5 +1,5 @@
 export const metadata = {
-    title: "About Page"
+    title: "About Page",
 }
 
 export default function About(){
